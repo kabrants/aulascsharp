@@ -67,7 +67,7 @@
             {
                 result = "x não é maior ou igual a y";
             }
-            Console.WriteLine("\nMaior ou igual (>=):" + result);
+            Console.WriteLine("\nMaior ou igual (>=): " + result);
 
             //Operador menor ou igual (<=)
             if (x <= y)
@@ -78,7 +78,7 @@
             {
                 result = "x não é menor ou igual a y";
             }
-            Console.WriteLine("\nMenor ou igual (<=):" + result);
+            Console.WriteLine("\nMenor ou igual (<=): " + result);
         }
         
     }
